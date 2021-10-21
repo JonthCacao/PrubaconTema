@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## JonthCacao
+Prueva con temas de jekyll.
 
 You can use the [editor on GitHub](https://github.com/JonthCacao/PrubaconTema/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +12,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# acerca clase 
+## pryectos
+### notas
 
-- Bulleted
-- List
+Estudiantes
+- uno
+- dos
+- -tres
+- -cuatro
 
-1. Numbered
-2. List
+1. perros
+2. gatitos
 
 **Bold** and _Italic_ and `Code` text
 
